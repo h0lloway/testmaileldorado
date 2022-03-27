@@ -1,5 +1,5 @@
-Тестовое письмо
+Тестовое HTML письмо для рассылки 
 
-https://h0lloway.github.io/testmaileldorado/
+Смотреть - h0lloway.github.io/testmaileldorado/
 
-В папке work with link письмо с абсолютными ссылками.
+В папке "work with link" письмо с абсолютными ссылками.
